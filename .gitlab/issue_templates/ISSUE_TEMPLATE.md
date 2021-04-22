@@ -8,7 +8,7 @@
  - Display(s): <TODO>
  - Type of Diplay Connection: <TODO: DP, HDMI, DVI, etc>
 
-## System infomration:
+## System information:
  - Distro name and Version: <TODO: e.g., Ubuntu 20.04.1>
  - Kernel version: <TODO: e.g., 5.6.11>
  - Custom kernel: <TODO: e.g., Kernel from drm-misc-next, commit: "Message">
