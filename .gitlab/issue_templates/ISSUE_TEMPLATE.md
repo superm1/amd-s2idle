@@ -6,7 +6,7 @@
  - GPU: <TODO>
  - System Memory: <TODO>
  - Display(s): <TODO>
- - Type of Diplay Connection: <TODO: DP, HDMI, DVI, etc>
+ - Type of Display Connection: <TODO: DP, HDMI, DVI, etc>
 
 ## System information:
  - Distro name and Version: <TODO: e.g., Ubuntu 20.04.1>
