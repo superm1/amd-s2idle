@@ -31,7 +31,7 @@ this task, we recommend you report it using the ISSUE_TEMPLATE provided by
 Gitlab. When you open a new issue, you will see a template option that looks
 like the below picture:
 
-![](images/issue_template.png)
+![](.gitlab/images/templates_highlight.png)
 
 Then, don't get your hopes up! Unless you have a "Code Red, Mission Critical,
 the World is Coming to an End" kind of bug, do not expect that the issue report
