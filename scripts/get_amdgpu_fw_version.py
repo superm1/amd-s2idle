@@ -157,7 +157,7 @@ def get_fw_version(fw_bin_path: Path):
 
     for parser in PARSERS:
         if re.match(parser["regex"], fw_bin_path.name):
-            ret += f"{fw_bin_path.name}: {parser["name"]} FW\n"
+            ret += f"{fw_bin_path.name}: {parser['name']} FW\n"
 
             if parser["ucode_parser"] is not None:
                 ucode_vers = parser["ucode_parser"](common_vers.ucode_version)
